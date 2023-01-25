@@ -1,0 +1,101 @@
+name,flavour,color,size_cl,price_usd,origin,fruit_juice_percent,sugar_level_g,magic_level
+Fairy Furry Mango,Mango,Coral,250,$6.39,Fairyland,50,15,High
+Stardust Strawberry,Strawberry,Pink,330,$7.39,Stardust Sea,30,8,Medium
+Enchanted Elderflower,Elderflower,Yellow,200,$5.39,Enchanted Forest,40,8,Low
+Lunar Comet,Cherry,Fuchsia,280,$4.79,Lunar Kingdom,25,14,Medium
+Dragonfruit Dream,Dragonfruit,Cyan,150,$4.39,Dragon's Lair,60,10,High
+Rainbow Tulip,Tulip,Orchid,240,$6.39,Rainbow Land,50,12,Low
+Rainbow Iris,Iris,Purple,280,$6.49,Rainbow Land,25,14,Medium
+Fairy Wind,Grape,Green,350,$8.39,Fairyland,40,8,Medium
+Sapphire Sour Apple,Sour Apple,Blue,220,$5.49,Sapphire Kingdom,35,13,Medium
+Stardust Wish,Raspberry,Silver,250,$6.49,Stardust Sea,35,14,Medium
+Golden Grapefruit,Grapefruit,Coral,300,$8.39,Golden Empire,45,15,Medium
+Lunar Lime,Lime,Lime,180,$5.19,Lunar Kingdom,55,9,Low
+Mystic Acai,Acai,Violet,250,$6.19,Mystic Kingdom,25,14,Medium
+Rainbow Lavender,Lavender,Violet,250,$6.49,Rainbow Land,35,14,Medium
+Fairy Dust,Lemon,Clear,250,$7.39,Fairyland,40,10,High
+Rainbow Raspberry,Raspberry,Azure,250,$7.39,Rainbow Land,40,10,High
+Mystic Blueberry,Blueberry,Navy,300,$8.39,Mystic Kingdom,50,9,Low
+Midnight Blackberry,Blackberry,Black,250,$9.49,Midnight Kingdom,35,16,High
+Rainbow Mountain,Raspberry,Fuchsia,180,$4.79,Rainbow Land,55,9,Low
+Enchanted Pine,Pine,Sienna,180,$5.19,Enchanted Forest,55,9,Low
+Fairy Blossom,Cherry,Pink,250,$6.49,Fairyland,35,14,Medium
+Mystic Cherry,Cherry,Red,220,$5.49,Mystic Kingdom,30,13,Low
+Golden Guava,Guava,Gold,240,$4.39,Golden Empire,50,12,High
+Lunar Lemon,Lemon,Azure,180,$5.19,Lunar Kingdom,55,9,Low
+Enchanted Maple,Maple,Red,250,$6.49,Enchanted Forest,35,8,Medium
+Mystic Melon,Melon,Green,280,$6.99,Mystic Kingdom,25,14,Medium
+Rainbow Jasmine,Jasmine,Clear,180,$5.19,Rainbow Land,55,9,Low
+Mystic Peach,Peach,Coral,240,$6.39,Mystic Kingdom,50,9,High
+Mystic Pineapple,Pineapple,Yellow,350,$4.79,Mystic Kingdom,60,11,Medium
+Lunar Stardust,Blueberry,Lavender,240,$6.39,Lunar Kingdom,50,12,Low
+Mystic Pomegranate,Pomegranate,Red,300,$8.39,Mystic Kingdom,45,9,Medium
+Rainbow Rose,Rose,Rose,250,$7.39,Rainbow Land,40,10,Low
+Golden Magic,Orange,Orange,220,$5.49,Golden Empire,30,13,Low
+Rainbow Orange,Durian,Orange,300,$8.39,Rainbow Land,50,12,Low
+Cherry Blossom Spell,Cherry,Pink,150,$6.39,Enchanted Forest,50,12,Low
+Rainbow Sunflower,Sunflower,Rainbow,220,$5.49,Rainbow Land,30,8,Low
+Lunar Supernova,Strawberry,Fuchsia,220,$5.49,Lunar Kingdom,30,13,Low
+Enchanted Apple,Apple,Teal,280,$6.99,Enchanted Forest,60,10,Medium
+Lunar Galaxy,Raspberry,Orchid,180,$5.19,Lunar Kingdom,55,9,Low
+Rainbow Peony,Peony,Rainbow,350,$7.99,Rainbow Land,45,11,Low
+Rainbow Power Poppy,Poppy,Rainbow,300,$8.39,Rainbow Land,45,11,High
+Enchanted Birch,Birch,White,150,$5.49,Enchanted Forest,30,13,Low
+Golden Moon,Lemon,Silver,250,$6.49,Golden Empire,35,15,Medium
+Golden Twilight,Grape,Gold,150,$4.79,Golden Empire,50,9,Low
+Rainbow Lilac,Lilac,Violet,240,$6.99,Rainbow Land,60,12,High
+Golden Soul Sun,Peach,Yellow,250,$7.39,Golden Empire,45,10,Low
+Sapphire Cloud,Cotton Candy,Violet,240,$6.39,Sapphire Kingdom,50,12,Medium
+Enchanted Moss,Moss,Green,300,$8.39,Enchanted Forest,45,11,High
+Dragonfire Cherry,Cherry,Violet,250,$7.39,Dragon's Lair,40,10,Low
+Dragon's Breath Blueberry,Blueberry,Navy,300,$7.99,Dragon's Lair,50,12,Low
+Golden Night,Blackberry,Fuchsia,180,$5.19,Golden Empire,55,15,Medium
+Sapphire Dragon,Dragonfruit,Blue,250,$7.39,Sapphire Kingdom,40,15,High
+Dragon's Heart Apple,Apple,Teal,220,$5.49,Dragon's Lair,30,13,Low
+Enchanted Willow,Willow,Green,280,$6.49,Enchanted Forest,25,14,Medium
+Golden Day,Strawberry,Pink,280,$6.49,Golden Empire,25,9,Medium
+Dragon's Roar Grape,Grape,Turquoise,240,$4.39,Dragon's Lair,60,8,Medium
+Golden Horizon,Blueberry,Aqua,240,$6.39,Golden Empire,50,9,High
+Dragon's Scales Pineapple,Pineapple,Green,280,$4.79,Dragon's Lair,25,14,Medium
+Dragon's Talon Peach,Peach,Orange,240,$6.39,Dragon's Lair,50,12,High
+Enchanted Fern,Fern,Teal,350,$4.79,Enchanted Forest,40,11,Medium
+Fairy Wings,Blueberry,Blue,300,$7.99,Fairyland,50,12,Medium
+Dragon's Fire Watermelon,Watermelon,Crimson,300,$7.99,Dragon's Lair,45,9,Low
+Golden Star,Starfruit,Gold,360,$8.39,Golden Empire,50,8,Low
+Rainbow Jungle,Mango,Rainbow,280,$6.49,Rainbow Land,35,14,Medium
+Enchanted Oak,Oak,Sienna,240,$6.39,Enchanted Forest,50,12,High
+Golden Sky,Raspberry,Gold,350,$4.79,Golden Empire,40,11,Medium
+Golden Dawn,Cherry,Crimson,300,$8.39,Golden Empire,45,8,Medium
+Fairy Tear,Apple,Clear,220,$5.49,Fairyland,30,8,Low
+Sapphire Storm,Raspberry,Azure,300,$8.39,Sapphire Kingdom,50,12,Medium
+Fairy Dew,Melon,Teal,150,$4.39,Fairyland,50,12,High
+Sapphire Starry,Starfruit,Blue,240,$4.79,Sapphire Kingdom,60,8,Low
+Fairy Fire,Peach,Orange,180,$5.19,Fairyland,55,9,Medium
+Dragon's Venom Mango,Mango,Yellow,360,$8.39,Dragon's Lair,40,11,High
+Rainbow Cloudy Candy,Cotton Candy,Aqua,150,$5.99,Rainbow Land,60,12,High
+Rainbow Thunder,Black Currant,Rainbow,350,$7.99,Rainbow Land,40,11,Medium
+Fairy Storm,Raspberry,Purple,240,$4.39,Fairyland,50,8,Low
+Rainbow Mountain,Guava,Bisque,180,$5.19,Rainbow Land,55,9,Low
+Stardust Fantasy,Cherry,Silver,240,$6.39,Stardust Sea,60,9,High
+Fairy Light,Strawberry,Yellow,300,$4.79,Fairyland,45,8,Low
+Sapphire Sea Soft,Blueberry,Blue,280,$6.49,Sapphire Kingdom,35,14,Medium
+Dragon's Fury Raspberry,Raspberry,Red,250,$6.49,Dragon's Lair,35,14,Medium
+Sapphire Sky,Lemon,Aqua,150,$5.49,Sapphire Kingdom,30,13,Medium
+Fairy Freezy Frost,Lychee,White,280,$4.79,Fairyland,25,14,Medium
+Sapphire Moon,Lime,Bisque,280,$6.49,Sapphire Kingdom,25,9,Medium
+Sapphire Thunder,Black Currant,Turquoise,350,$4.79,Sapphire Kingdom,60,11,Low
+Rainbow Ocean,Blueberry,Navy,240,$5.99,Rainbow Land,60,9,Low
+Stardust Magic,Black Currant,Silver,300,$8.39,Stardust Sea,50,12,Medium
+Rainbow Lightning,Cherry,Bisque,300,$7.99,Rainbow Land,45,15,Low
+Sapphire Lightning,Cherry,Blue,300,$7.99,Sapphire Kingdom,45,15,High
+Rainbow Oasis,Orange,Rainbow,300,$8.39,Rainbow Land,50,8,Low
+Lunar Eclipse,Blackberry,Turquoise,250,$7.39,Lunar Kingdom,40,10,High
+Midnight Power Plum,Plum,Indigo,220,$8.49,Midnight Kingdom,45,15,High
+Sapphire Sun,Persimmon,Blue,180,$4.39,Sapphire Kingdom,55,9,Medium
+Lunar Nova,Orange,Silver,250,$6.49,Lunar Kingdom,35,14,Medium
+Lunar Moonbeam,Lemon,Silver,300,$8.39,Lunar Kingdom,45,11,Low
+Stardust Dream,Cotton Candy,Lavender,250,$7.39,Stardust Sea,40,15,Low
+Lunar Meteor,Grape,Silver,300,$8.39,Lunar Kingdom,50,12,Low
+Stardust Miracle,Blueberry,Turquoise,220,$5.49,Stardust Sea,30,13,Low
+Rainbow Paradise,Pineapple,Yellow,250,$6.99,Rainbow Land,40,10,Medium
+Dragon's Soul Orange,Orange,Orange,180,$4.79,Dragon's Lair,55,9,Low
